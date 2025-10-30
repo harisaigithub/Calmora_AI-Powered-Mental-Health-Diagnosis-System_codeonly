@@ -8,7 +8,7 @@
 ---
 
 ## **Table of Contents**  
-- This is **Code Only**
+- This is **Code Only Repo**
 - You can complete project Readme @ 🔗 GitHub Repository: *[https://github.com/harisaigithub/AI-Based-Mental-Health-Diagnosis]*  
 
 ## **Future Enhancements**  
